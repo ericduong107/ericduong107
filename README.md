@@ -2,7 +2,9 @@
 <!-- I. Giới thiệu ngắn gọn -->
 ## 👋 Hi, I'm Eric Duong (DK Hy)
 🚀 Flutter Developer | Frontend Developer
+
 💻 Passionate about building scalable apps & beautiful UI/UX
+
 🌱 Currently exploring: AI integration into frontend apps
 
 <!-- II. Kỹ năng chính -->
