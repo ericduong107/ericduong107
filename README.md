@@ -1,7 +1,7 @@
 <!-- ========================= Main ========================= -->
 <!-- I. Giới thiệu ngắn gọn -->
 ## 👋 Hi, I'm Eric Duong (DK Hy)
-🚀 Flutter Developer | Frontend Developer
+🚀 Flutter Developer | Frontend Developer (Angular/ReactTS)
 
 💻 Passionate about building scalable apps & beautiful UI/UX
 
@@ -9,7 +9,7 @@
 
 <!-- II. Kỹ năng chính -->
 ## 🛠️ Tech Stack
-- **Frontend:** Angular, HTML, CSS, TypeScript
+- **Frontend:** Angular, ReactTS, HTML, CSS, TypeScript
 - **Mobile:** Flutter (Dart)
 - **Other:** Git, REST API
 
