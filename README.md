@@ -23,6 +23,8 @@
 - 🌐 [Portfolio Website](https://ericduong107.github.io)
 - 📧 Email: ericduong107@gmail.com
 
+## [Documents](https://app.notion.com/p/Ventoy-on-Ubuntu-380f291b1b77809a842bd622ff0528e6?source=copy_link)
+
 
 <!-- VI. Optional: Thêm phần thú vị -->
 <!--
