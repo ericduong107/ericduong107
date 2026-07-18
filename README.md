@@ -16,7 +16,9 @@
 <!-- III. Các dự án tiêu biểu -->
 ## 🌟 Featured Projects
 - [🌐 Portfolio Website](https://ericduong107.github.io)
-  *HTML, CSS, JS* - Trang portfolio cá nhân giới thiệu kỹ năng và dự án.
+  *`HTML, CSS, JS`* - The personal portfolio page showcases skills and projects.
+- [Ubuntu Software Installer](https://github.com/ericduong107/ubuntu_software_installer)
+  *`Shell`* - Install software on Ubuntu with just one command.
 
 <!-- V. Liên hệ -->
 ## 📫 Contact Me
