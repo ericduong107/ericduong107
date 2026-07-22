@@ -26,7 +26,6 @@
 - 📧 Email: ericduong107@gmail.com
 
 ## Documents
-- [app.notion.com/p/Documents-of-Eric-Duong](https://app.notion.com/p/Documents-of-Eric-Duong-381f291b1b7780b7b283fb75c6eac9b4?source=copy_link)
 - [dkhy.notion.site/Documents-of-Eric-Duong](https://dkhy.notion.site/381f291b1b7780b7b283fb75c6eac9b4?v=381f291b1b7780409de4000c9c2e8885)
 
 
