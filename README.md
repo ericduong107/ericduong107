@@ -16,14 +16,15 @@
 <!-- III. Các dự án tiêu biểu -->
 ## 🌟 Featured Projects
 <!-- - [🌐 Portfolio Website](https://ericduong107.github.io) -->
-- [🌐 Portfolio Website](khanghyduong.id.vn)
+- [🌐 Portfolio Website](https://www.khanghyduong.id.vn)
   *`HTML, CSS, JS`* - The personal portfolio page showcases skills and projects.
 - [Ubuntu Software Installer](https://github.com/ericduong107/ubuntu_software_installer)
   *`Shell`* - Install software on Ubuntu with just one command.
 
 <!-- V. Liên hệ -->
 ## 📫 Contact Me
-- 🌐 [Portfolio Website](https://ericduong107.github.io)
+<!-- - 🌐 [Portfolio Website](https://ericduong107.github.io) -->
+- 🌐 [Portfolio Website](https://www.khanghyduong.id.vn)
 - 📧 Email: [contact@khanghyduong.id.vn](contact@khanghyduong.id.vn)
 
 ## Documents
