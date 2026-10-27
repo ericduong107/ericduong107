@@ -9,9 +9,9 @@
 
 <!-- II. Kỹ năng chính -->
 ## 🛠️ Tech Stack
-- **Frontend:** Angular, ReactTS, HTML, CSS, TypeScript
+- **Frontend:** Angular + TypeScript, Next.js + TypeScript, TailwindCSS, HTML, CSS, TypeScript
 - **Mobile:** Flutter (Dart)
-- **Other:** Git, REST API
+- **Tools & Others:** Git, REST API, Ubuntu
 
 <!-- III. Các dự án tiêu biểu -->
 ## 🌟 Featured Projects
